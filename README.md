@@ -25,7 +25,7 @@ This repository contains code for a multi-connection server that performs 15 mat
    ```bash
    python3 calculus_clientX.py
 
-You can try to run the two clinets simultaneously. Note that all these codes were written and tested with python version (3.10.12)
+You can try to run the two clients simultaneously. Note that all these codes were written and tested with python version (3.10.12)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
